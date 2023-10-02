@@ -1,6 +1,7 @@
 # 甘特圖
 ### Mermaid
 ```mermaid
+
 gantt
     C110118157任務清單
     section 任務
